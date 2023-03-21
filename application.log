@@ -1,0 +1,19 @@
+2021-09-08 04:10:59,404  INFO [main] LoginPage:77 - User name enterd as admin
+2021-09-08 04:11:00,225  INFO [main] HomePage:45 - Validated Logo
+2021-09-08 04:11:19,570  INFO [main] LoginPage:77 - User name enterd as trainee
+2021-09-08 04:11:20,334  INFO [main] HomePage:45 - Validated Logo
+2021-09-08 08:53:06,057  INFO [main] LoginPage:77 - User name enterd as admin
+2021-09-08 08:53:06,958  INFO [main] HomePage:45 - Validated Logo
+2021-09-08 08:53:24,330  INFO [main] LoginPage:77 - User name enterd as trainee
+2021-09-08 08:53:25,237  INFO [main] HomePage:45 - Validated Logo
+2023-03-20 17:12:03,599  INFO [main] HomePage:45 - Validated Logo
+2023-03-20 17:13:18,179  INFO [main] HomePage:45 - Validated Logo
+2023-03-20 19:35:23,964  INFO [main] HomePage:45 - Validated Logo
+2023-03-20 20:51:39,010  INFO [main] UsersPage:40 - Getting user list count-----
+2023-03-20 21:10:25,030  INFO [main] UsersPage:42 - Getting user list count-----
+2023-03-20 21:11:14,290  INFO [main] HomePage:48 - Validated Logo
+2023-03-20 21:13:07,103  INFO [main] UsersPage:42 - Getting user list count-----
+2023-03-21 11:30:49,790  INFO [main] UsersPage:42 - Getting user list count-----
+2023-03-21 12:59:03,637  INFO [main] UsersPage:42 - Getting user list count-----
+2023-03-21 13:16:37,149  INFO [main] UsersPage:42 - Getting user list count-----
+2023-03-21 14:14:38,757  INFO [main] UsersPage:42 - Getting user list count-----
